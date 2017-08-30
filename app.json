@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "20.0.0",
+    "name": "codenames",
+    "icon": "http://imgur.com/KhwbBQU.jpg",
+    "version": "1.0.0",
+    "slug": "codenames",
+    "ios": {
+      "bundleIdentifier": "org.rnplay.exp"
+    }
+  }
+}
